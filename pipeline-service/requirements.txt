@@ -1,0 +1,8 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+SQLAlchemy==2.0.35
+psycopg2-binary==2.9.9
+asyncpg==0.29.0
+dlt==0.5.4
+requests==2.32.3
+pydantic==2.9.2
